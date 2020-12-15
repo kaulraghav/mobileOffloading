@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Mobile Offloading</string>
+    <string name="transmit_data">Transmit Device Data</string>
+    <string name="msg_status">Device Status</string>
+    <string name="mtrx_1">Matrix 1</string>
+    <string name="mtrx_2">Matrix 2</string>
+    <string name="conxn_status">Establishing Connection...</string>
+    <string name="monitor_connections">Monitor Device Connections</string>
+    <string name="offload_matrix_calculation">Offload matrix Calculation</string>
+    <string name="extract_device_data">Extract Device Data</string>
+    <string name="Resultant_matrix">Resultant Matrix After Offloading</string>
+    <string name="calculated_matrix_result">Calculated Matrix Values</string>
+    <string name="row_1">row_1</string>
+    <string name="row_2">row_2</string>
+    <string name="row_3">row_3</string>
+    <string name="row_4">row_4</string>
+    <string name="estimations_screen">View Estimations</string>
+    <string name="second_estimation">second estimation</string>
+    <string name="first_estimation">first estimation</string>
+    <string name="third_estimation">third estimation</string>
+    <string name="calculated_estimations">Offloading Estimations and Failure Analysis</string>
+    <string name="matrix_t_hint">Accepted in Java format</string>
+    <string name="matrix_2_hint">Accepted in Java format</string>
+</resources>
